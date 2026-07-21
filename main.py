@@ -163,7 +163,7 @@ def show_result(score, wrong_answer): # Display the final game results and perfo
 
     print("=" * 40)
     print("Thanks for playing Math Quiz! ❤️")
-    print("Created by Ma3ih-dev")
+    print("Created by Ma3ihdev")
     print("=" * 40)
     
 

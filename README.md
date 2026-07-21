@@ -79,6 +79,7 @@ Planned features include:
 
 ## 👨‍💻 Author
 
-Created by Ma3ih-dev
+Created with ❤️ by Ma3ihdev
+GitHub: https://github.com/Ma3ihdev
 
 Thank you for checking out this project 🙏
